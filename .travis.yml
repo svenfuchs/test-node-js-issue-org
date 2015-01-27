@@ -1,2 +1,6 @@
 language: node_js
 sudo: false
+deploy:
+  provider: heroku
+  api_key:
+    secure: rAyZhS4QOAZqcACd+mdwTfv88NSzEuhPYodD/ggInumqetobqx1pkKucTyDuOQ9UW9eDZHRERTdADPkC9TvD9fX7HLnxKlLInmVjRBkSi5VsxcRqlmQXSx5lFg2W/Fbdu351uB1MNkTRyLDRiiVqt9bQmuMnhF2T8zAndRrUFGw=
