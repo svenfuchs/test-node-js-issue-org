@@ -1,5 +1,5 @@
 language: node_js
-sudo: false
+# sudo: false
 deploy:
   provider: heroku
   api_key:
